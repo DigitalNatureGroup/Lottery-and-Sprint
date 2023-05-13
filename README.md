@@ -1,3 +1,9 @@
+# auto gpt paruparu is using.
+- cloned https://github.com/Significant-Gravitas/Auto-GPT/tree/980bbe2bc356e837da114f58941a8abc1d11c1c1
+- installed plugins https://github.com/Significant-Gravitas/Auto-GPT-Plugins/blob/57d9213aec874c8d3a1f9f082120da07517fc7d5/src/autogpt_plugins/wikipedia_search/__init__.py
+- sound effect of toaster when user input is needed.
+
+
 # Auto-GPT: An Autonomous GPT-4 Experiment
 [![Official Website](https://img.shields.io/badge/Official%20Website-agpt.co-blue?style=flat&logo=world&logoColor=white)](https://agpt.co)
 [![Unit Tests](https://img.shields.io/github/actions/workflow/status/Significant-Gravitas/Auto-GPT/ci.yml?label=unit%20tests)](https://github.com/Significant-Gravitas/Auto-GPT/actions/workflows/ci.yml)
