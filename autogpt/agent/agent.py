@@ -1,4 +1,6 @@
 from datetime import datetime
+#make notification sound
+from playsound import playsound
 
 from colorama import Fore, Style
 
@@ -166,6 +168,9 @@ class Agent:
                     "'n' to exit program, or enter feedback for "
                     f"{self.ai_name}..."
                 )
+                #make notification sound
+                playsound('./autogpt/agent/chi-n.mp3')
+                
                 while True:
                     if cfg.chat_messages_enabled:
                         console_input = clean_input("Waiting for your response...")
