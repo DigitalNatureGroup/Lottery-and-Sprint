@@ -19,7 +19,7 @@ log.txt
 log-ingestion.txt
 logs
 *.log
-*.mp3
+# *.mp3
 mem.sqlite3
 venvAutoGPT
 
