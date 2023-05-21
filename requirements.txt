@@ -53,12 +53,9 @@ pytest-integration
 pytest-mock
 vcrpy
 pytest-recording
-<<<<<<< HEAD
 
 #paruPT original(mac env)
 pyobjc
 playsound
 pymupdf
-=======
 pytest-xdist
->>>>>>> upstream/master
