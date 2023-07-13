@@ -187,7 +187,7 @@ class Agent:
                     f"{self.ai_name}..."
                 )
                 #make notification sound
-                playsound('./autogpt/agent/chi-n.mp3')
+                playsound('./autogpt/agent/A.mp3')
                 
                 while True:
                     if cfg.chat_messages_enabled:
