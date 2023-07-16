@@ -1,0 +1,29 @@
+Title: Treasure Quest
+
+Materials:
+- 3 dice
+- A3 paper for board
+- 15 pieces (4 player pieces + 11 treasure tokens)
+- One set of poker cards (54 cards)
+
+Updated Board Design:
+The A3 paper board consists of a 6x6 grid of squares. Each square represents a different land type: Forest, Desert, Mountains, and Ocean. Design each land type distinctively and add artistic elements to make the board appealing.
+
+Setup:
+1. Place the A3 paper board on the table.
+2. Shuffle the deck of poker cards and remove the two jokers. Place the remaining 52 cards face down in a draw pile.
+3. Each player selects a player piece and puts it at the bottom-left corner of the board.
+4. Place 11 treasure tokens on 11 random squares on the board, not including the corner squares where the player pieces start.
+5. Players roll the dice to determine the order of play. The highest roll goes first, followed clockwise in descending order.
+
+Updated Gameplay Rules:
+1. On each turn, a player rolls the 3 dice. The player can move up to the total number shown on the dice in any combination of horizontal and vertical moves.
+2. The player then draws a card from the draw pile. The suit of the card corresponds to a land type: Hearts (Forest), Diamonds (Desert), Clubs (Mountains), and Spades (Ocean). Players can only pick up treasure tokens from the land type matching the card suit they drew.
+3. If the player cannot pick up a treasure on their turn, they can exchange their current card for a new one from the draw pile.
+4. If a player lands on another player's square, a "Battle" commences. The attacking player (the one who landed) and the defending player each roll two dice. The higher total wins the Battle, and the winner may steal one treasure token from the loser or swap their current card for the loser's card.
+5. Play continues clockwise.
+
+Game Ending Conditions:
+The game ends when all 11 treasure tokens have been collected by the players. The player with the most treasure tokens wins. In case of a tie, the player with the highest value poker card (Ace being the highest) wins.
+
+By updating the game based on the reflection, we ensure that the materials and board design fit well within the constraints, and the winning condition is clear and appropriate. Treasure Quest is now a well-balanced and enjoyable game for 4 players.

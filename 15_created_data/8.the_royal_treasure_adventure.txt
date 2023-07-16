@@ -1,0 +1,47 @@
+Title: The Royal Treasure Adventure
+
+Materials:
+- 3 dice
+- A3 paper for board with illustrated terrains and zones
+- 16 game pieces (4 sets of 4 pieces per player)
+- One set of poker cards (54 cards, including two jokers)
+
+Setup:
+1. Unfold the A3 paper to reveal the 4x4 illustrated grid, forming a total of 16 squares with different terrain types and special zones.
+2. Each player selects one set of game pieces and places them in their respective starting positions on the four corners of the grid.
+3. Shuffle the poker cards and deal four cards to each player. Place the remaining deck in the center of the grid.
+
+Gameplay Rules:
+1. Players take turns clockwise, rolling the three dice and moving one of their game pieces according to the sum of the numbers rolled.
+2. Players can land on or pass through both their own and other player's game pieces. Landing on an opponent's game piece allows the player to draw an extra card from the deck or discard and draw a new card.
+3. After moving, players can optionally play a card from their hand face up to the discard pile and perform its action:
+   - Number cards: Force any one opponent to move their game piece a number of squares equal to the card value.
+   - Face cards: Gain a unique ability that can be used once per turn.
+   - Ace: Choose any card from the discard pile.
+   - Joker: Roll the three dice again and take another turn with new dice results.
+4. Once all of a player’s game pieces have reached the special zone on the side opposite their starting corner, that player can attempt to reach the center square by using exact roll numbers. If successful, the player claims a "Treasure Token" (face card or Joker) from adjacent players and puts it in their collection.
+
+Game Ending Conditions:
+- The game ends when all four Treasure Tokens have been claimed by players.
+- The player with the most Treasure Tokens wins. If players have equal Treasure Tokens, the player with the highest card values in their collection wins.
+
+Board Layout and Design:
+- The A3 paper is designed with an illustrated 4x4 grid representing the game board. Each square has a particular terrain type or special zone with its own effect.
+- Starting positions for each player's game piece are the corners of the grid.
+- The center of the grid holds the deck of cards.
+- Each player places their Treasure Tokens and card collection beside their respective starting corners.
+
+Unique Points:
+- Incorporating dice rolling, strategic card playing, and grid movement into an exciting treasure-hunting adventure.
+- Using different terrains and zones for added depth and challenge in gameplay.
+- Utilizing the full set of poker cards as an important element in game mechanics.
+
+Enjoyable Points:
+- Balancing luck and strategy in a race to claim Treasure Tokens.
+- Engaging with other players through card effects and grid movement.
+- A visually appealing game board with different terrains and special zones.
+
+Strategy to Win the Game:
+- Adapting to varying terrains and zones for efficient movement across the grid.
+- Utilizing card effects and unique abilities to gain an advantage over opponents.
+- Effectively navigating the grid and reaching the center square to secure Treasure Tokens.

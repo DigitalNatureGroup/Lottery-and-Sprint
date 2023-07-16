@@ -1,0 +1,40 @@
+Game Name: Continent Conquer - Quick Battle
+
+Objective:
+The main objective of the game is to occupy two out of four continents on the A3 paper map using your own pieces and strategically utilizing poker cards.
+
+Components:
+- A3 paper map consisting of four continents, each with four territories
+- 4 sets of 12 game pieces, each representing a different player
+- 3 standard six-sided dice
+- 1 set of 54 poker cards with custom actions (explained below)
+
+Game Setup:
+1. The A3 paper map is laid out on a table, and the four continents on the map are given names.
+2. Each of the four players chooses a set of 12 game pieces and a corner of the map to set up their home territory.
+3. The poker cards are shuffled and placed face down nearby the map.
+4. Each player draws three poker cards and keeps them hidden.
+
+Game Mechanics:
+1. Players take turns moving their pieces, placing new pieces, playing a poker card, or passing.
+2. To move a piece, it can only move horizontally or vertically across adjacent territories, but not diagonally.
+3. To place a new piece, the player should place it in their home territory or on a territory adjacent to their home territory.
+4. To play a poker card, the player follows the action written on that specific card. Actions could include extra movement, attacks, or reinforcements. The poker cards are categorized as follows:
+   - Hearts: Reinforcement cards, provide extra pieces in your home territory.
+   - Diamonds: Movement cards, allow faster movement across territories.
+   - Clubs: Attack cards, provide a bonus to attack rolls or attack multiple territories.
+   - Spades: Defense cards, provide a bonus to defense rolls or protect certain territories.
+   - Jokers (2): Wild cards, can be used as any of the other four suits.
+
+5. Attacking a territory is done by rolling two dice for the attacker and one die for the defender. If the attacking player has a higher total, they win and occupy the territory. In case of a tie, the defender wins and retains the territory.
+
+Strategies:
+- Focusing on specific continents for easier control
+- Forming alliances with other players
+- Utilizing poker cards to gain advantages in movement, attack, and defense
+- Balancing resources between attacking and defending
+
+Winning Condition:
+The first player to occupy two out of the four continents wins the game.
+
+Continent Conquer - Quick Battle offers a fast-paced and strategic gameplay experience for four players within a 5m square room in only 30 minutes. Using fewer game pieces, dice, and a smaller map, the new version retains all the exciting elements of the original game while fitting within the constraints of the given materials. Players can easily prepare the materials and enjoy a quick gaming session, making it perfect for a friendly competition or an icebreaker activity.

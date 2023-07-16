@@ -1,0 +1,45 @@
+Title: Poker Pathways
+
+Materials:
+- 3 dice
+- A3 paper for board
+- 12 playing pieces (4 colors, 3 pieces per player)
+- One set of poker cards (54 cards, including two jokers)
+
+Setup:
+1. Draw a 6x6 grid on the A3 paper to create a 36 square board.
+2. Shuffle the set of poker cards and deal 5 cards to each player.
+3. Place the remaining deck of cards facedown, leaving room for a discard pile beside it.
+4. Each player selects a color and places their 3 playing pieces at their respective starting corners (top-left, top-right, bottom-left, bottom-right).
+
+Gameplay Rules:
+1. The initial player rolls the 3 dice and moves one of their pieces based on the numbers rolled. For each number, move horizontally or vertically along the grid.
+2. Players must choose which dice go with each move (e.g. if you roll a 3, 4, and 5, you could move one piece 3 spaces, another 4 spaces, and the same or another piece 5 spaces).
+3. After moving, the player may play a card from their hand on the table in front of them to perform a specific action:
+   - Number cards (2-10): move an opponent's piece that number of spaces in any direction.
+   - Face cards: grant special abilities (Jack: swap positions of any two pieces, Queen: move any piece diagonally, King: block an opponent's next move)
+   - Ace: move any piece to any unoccupied square.
+   - Joker: act as a wildcard, substituting for any card above.
+4. Cards played are placed in the discard pile, and the player draws a new card to maintain a 5-card hand.
+5. Proceed clockwise around the table.
+
+Game Ending Conditions:
+1. The game ends when a player has successfully moved all three of their pieces to their respective opposite corner (e.g. top-left to bottom-right). The first player to achieve this wins.
+2. If the deck runs out, shuffle the discard pile to create a new deck and continue playing until a winner is determined.
+
+Board Layout and Design:
+- A simple 6x6 grid on an A3 paper
+- Starting corners are marked by the players' colors
+
+Unique Points:
+- Combination of traditional poker cards and board game mechanics
+- Flexible strategy by balancing moves, card actions, and blocking opponents
+
+Enjoyable Points:
+- Player interaction through moving opponents' pieces and special actions
+- Suspense in not knowing which cards opponents hold
+
+Strategy to Win the Game:
+- Efficiently use dice numbers to maximize movement for your pieces
+- Choose the right moment to play special cards to maximize their impact
+- Predict and block opponents' moves to slow their progress

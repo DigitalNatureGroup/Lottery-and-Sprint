@@ -1,0 +1,42 @@
+Title: Poker Race Party
+
+Materials:
+1. Less than 4 dice (3 dice will be used)
+2. A3 paper for board
+3. 12 pieces (3 pieces per player, each color: Red, Blue, Green, Yellow)
+4. One set of poker cards (54 cards including four suits (hearts, diamonds, clubs, spades) and each suit has 13 cards (Ace through King) and two jokers)
+
+Setup:
+1. Place the A3 paper on a table and draw a race track with various paths along with different spaces marked with card icons (hearts, diamonds, clubs, spades) and joker spaces.
+2. Place the 12 game pieces at the starting line.
+3. Shuffle the poker cards and place them face down next to the board.
+4. Each player picks a color, rolls the dice, and the player with the highest total roll goes first.
+
+Gameplay Rules:
+1. Players take turns rolling the three dice and moving their pieces forward a number of spaces equal to the sum of their dice roll.
+2. If a player lands on a space with a card icon (hearts, diamonds, clubs, spades), they draw a card from the deck corresponding to the suit of the space they landed on.
+3. If a player lands on a joker space, they draw a joker card (which acts as a wild card, and can be used as any other card during the game).
+4. Players can use the cards they have drawn to complete poker hands (e.g., a pair, straight, flush, full house, etc.). Once a player has completed a poker hand using cards in their possession, they can use that hand to either:
+   - Move additional spaces equal to a number based on the strength of the hand (e.g., 1 space for a pair, 2 spaces for a straight, 4 spaces for a flush, and so on) OR
+   - Block an opponent (e.g., a pair can block for 1 turn, a straight for 2 turns, a flush for 3 turns, and so on) by preventing them from moving on their next turn(s).
+
+Game Ending Conditions:
+1. A player reaches the Finish line of the race track.
+2. If the clock reaches 30 minutes, the game ends, and the player whose piece is nearest to the Finish line is declared the winner.
+
+Board Layout and Design:
+1. The A3 paper should be designed with a race track looping around it with multiple paths for players to choose from.
+2. The track should also have card icons (hearts, diamonds, clubs, spades) and joker spaces scattered along the path.
+
+Unique Point:
+This board game combines elements from racing games, dice games, and classic poker, adding an exciting blend of strategy, luck, and card mastery.
+
+Enjoyable Point:
+Players will enjoy the thrill of racing to the Finish line, the unpredictable nature of dice rolls, and the satisfaction of completing powerful poker hands to boost their position or hinder their opponents.
+
+Strategy to Win:
+1. Maintain a balance between collecting cards to complete powerful hands, and moving your pieces forward.
+2. Be mindful of the paths you choose. Some paths may offer better chances to collect cards, while others might be shorter but have fewer card spaces.
+3. Anticipate your opponents' moves and use cards to strategically block them at the right moments to maximize your advantage in the race.
+
+Overall, Poker Race Party is a fun and interactive board game that blends elements of classic racing, dice, and poker games while still being able to accommodate constraints and materials provided.

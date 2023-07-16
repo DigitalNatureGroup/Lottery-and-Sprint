@@ -1,0 +1,41 @@
+Title: Poker Quest
+
+Materials:
+- 3 dice
+- A3 paper for the board
+- 16 game pieces (4 per player)
+- One set of poker cards (54 cards, including four suits of 13 cards each and two Jokers)
+
+Setup:
+1. The A3 paper is divided into a grid of 6x6 squares, with the four corners being the starting points for each player.
+2. Each player chooses a corner to start and places their 4 game pieces on it.
+3. The poker cards are shuffled, and each player is dealt a hand of 6 cards. The remaining deck is placed face down in the center of the board.
+4. Each player rolls one die to determine the order of play, with the highest roll going first.
+
+Gameplay Rules:
+1. On their turn, a player first rolls all 3 dice.
+2. The player can choose a card from their hand and place it on the corresponding row and column of the board, based on the numbers rolled on the dice (e.g., if a player rolls a 3, 4, and 5, they can choose to place their card in any of the 3x4, 3x5, or 4x5 positions on the board). If the selected position already has a card, the player may instead choose to swap cards.
+3. The player can then move one of their game pieces to an adjacent square or onto an opponent's square (diagonal moves are not allowed). If a player moves onto an opponent's square, both players compare their highest card value (Ace = 1, 2-10 = Face value, Jack = 11, Queen = 12, King = 13, Joker = 14). The player with the highest value returns their card to the bottom of the deck, while the other player's card is discarded. The winner keeps the square and stays on it.
+4. After this, the player draws a new card to refill their hand to 6 cards.
+5. Play proceeds clockwise.
+
+Game Ending Conditions:
+1. The game ends when a player gets all four of their game pieces into their opponents' starting corners, or when no more cards can be drawn from the deck.
+
+Board Layout and Design:
+- The board consists of a 6x6 grid with simple borders around each square.
+- The four corner squares are colored differently to signify each player's starting point.
+- To make the board visually appealing, each suit can be represented by a color or pattern (e.g., hearts = red, diamonds = green, clubs = yellow, spades = blue).
+
+Unique Points:
+- The combination of poker cards and dice adds an element of chance and strategic decision-making to the typical board game setup.
+- Players must balance their card placement and the movement of their game pieces based on the dice rolls and the cards in their hand.
+
+Enjoyable Points:
+- The game includes elements of chance and strategy, appealing to players of different skill levels and interests.
+- The competitive aspect of the game (moving onto opponent's squares, swapping cards) entices player interaction and exciting gameplay.
+
+Strategy to Win the Game:
+- Players should carefully choose card positions and plan the movement of their game pieces to strategically block opponents.
+- Keeping a balance between high-value cards and strategic swaps can help secure vital spaces on the board.
+- At the same time, players need to find the right balance between offense and defense when moving their game pieces to opponents' starting corners.

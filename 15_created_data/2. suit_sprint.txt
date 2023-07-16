@@ -1,0 +1,38 @@
+Title: Suit Sprint
+
+Materials:
+- 3 dice
+- A3 paper for board
+- 12 game pieces (3 pieces per player)
+- One set of poker cards (54 cards)
+
+Setup:
+1. Lay the A3 paper on the table and draw a racing track that consists of 39 card spaces. Each space should be large enough to hold a game piece. Label each space with a card symbol (hearts, diamonds, clubs, spades) from Ace to 10.
+2. At the end of the track, create a "finish" zone that can hold 4 game pieces.
+3. Shuffle the poker cards and place them facedown in a stack at the side of the race track.
+4. Each player chooses a color and receives 3 game pieces of that color.
+5. All players place their game pieces on the starting line, which is the Ace of Hearts space.
+
+Gameplay Rules:
+1. On each turn, the player rolls the three dice and picks up the top card from the deck.
+2. Players must move one of their game pieces forward by the combined total of the dice roll.
+3. To move to the next space, its card symbol must match the suit of the card that has been drawn.
+4. If a player cannot move according to their dice roll and card drawn, they must take a card from their hand (if available) and use it to replace the card drawn.
+5. A player can only have a maximum of 4 cards in their hand at any given time. If they have 4 cards and cannot use any of their cards, they must discard one card before drawing a new one.
+6. Players can choose to move any of their game pieces or can split their dice roll and move two game pieces accordingly. The total movement must equal the sum of the dice roll.
+7. If a player lands on an occupied space, they must "battle" the other player by drawing a random card from their hand (if available). The player with the higher card wins the battle and stays on the space; the loser moves back to the starting line.
+
+Game Ending Conditions:
+The game ends when one player successfully moves all of their 3 game pieces into the finish zone. The player with the most game pieces in the finish zone is declared the winner.
+
+Board Layout and Design:
+The racing track board should be designed in a visually appealing way, with the suits represented by colors and symbols. The finish zone can be surrounded by decorative elements that give it a "rich" and celebratory appearance.
+
+Unique Point:
+The clever combination of poker cards, dice, and the racing track adds a strategic element to the game, as players must carefully manage their cards and decide which game piece to move to optimize their chances of winning.
+
+Enjoyable Point:
+The excitement of battles between players and the strategy involved in managing cards make the gameplay enjoyable and engaging for all players.
+
+Strategy to Win the Game:
+Players must carefully manage their cards, watch their opponents' moves, and plan their dice rolls to optimize their chances of moving all three game pieces into the finish zone. Successful players will balance risk-taking with careful strategy using their cards and dice rolls. This updated game can be played by 4 people in a 5m square room and completed within about 30 minutes, using the provided materials.

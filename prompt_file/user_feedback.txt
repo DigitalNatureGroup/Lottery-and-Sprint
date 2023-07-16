@@ -1,0 +1,6 @@
+Problem 1:<Issue> because <reason of the issue>
+Require 1:<how should it be fixed>
+
+Example,
+Problem 1: I can't draw the board because there are no specific instructions for the board design.
+Require 1: I want you to write the number of grids and the starting point in detail.

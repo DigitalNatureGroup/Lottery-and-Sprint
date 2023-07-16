@@ -1,0 +1,50 @@
+Title: Treasure Quest
+
+Materials: 
+1. A3 paper for the board
+2. 3 dice
+3. 12 game pieces (3 for each player)
+4. One set of poker cards (54 cards)
+5. A set of 8 "Treasure" cards, separate from the poker cards.
+
+Setup:
+1. Draw a grid with 8x8 squares on the A3 paper.
+2. Place a "Start" label on the bottom left corner and a "Finish" label on the top right corner.
+3. Each player places two "Treasure" cards on any two empty squares on the grid.
+4. Shuffle the poker cards and place them in a deck face down. Keep the "Treasure" cards separate.
+5. Each player chooses a color and takes three game pieces of that color.
+6. Players place one of their game pieces on the "Start" square.
+
+Gameplay Rules:
+1. The youngest player goes first, and the game proceeds clockwise.
+2. On their turn, each player does the following:
+   a. Draw a card from the poker deck. The value of the card determines the movement:
+      - Numbered cards: move the same number of spaces as the number on the card.
+      - Face cards (Jack, Queen, King): move 10 spaces.
+      - Ace: move 1-6 spaces based on the player’s choice.
+      - Joker: swap positions with another player's game piece.
+   b. Roll the dice. The sum determines the type of action:
+      - If the sum is even, move the game piece to the right in the grid.
+      - If the sum is odd, move the game piece up in the grid.
+   c. If a player's game piece lands on a "Treasure" square, draw a "Treasure" card and follow the action written on the card (e.g., place another game piece at the "Start" square on their next turn).
+3. Players must follow the grid paths and cannot move diagonally or skip squares. When reaching the edge, change direction clockwise. If an action cannot be completed, the player's turn is skipped.
+
+Game Ending Conditions:
+1. The game ends when one player has placed all three of their game pieces on the "Finish" square.
+2. The player who achieves this is the winner.
+
+Board Layout and Design:
+1. Grid-based board with "Start," "Finish," and player-placed "Treasure" squares
+
+Unique Points:
+1. The combination of card drawing, dice rolling, and strategic "Treasure" card placement creates a strategic and engaging game with a touch of luck.
+2. The ability to place additional game pieces and influence the game board adds an extra challenge and depth to the game.
+
+Enjoyable Points:
+1. Players must think strategically and adapt to the changing game situation.
+2. The excitement of trying to reach the "Finish" square while also trying to hinder opponents and make use of "Treasure" squares.
+
+Strategy to Win the Game:
+1. Plan your moves carefully, considering card values, potential actions, and the strategic placement of "Treasure" squares.
+2. Be adaptable, taking advantage of opportunities to swap positions, block opponents' paths, and make the best use of "Treasure" cards.
+3. Prioritize reaching "Treasure" squares to quickly add more game pieces and increase your chances of winning, while also trying to place them strategically to hinder opponents.

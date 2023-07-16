@@ -1,0 +1,11 @@
+you can use this material in the board game:
+- less than 4 dice
+- A3 paper for board
+- piece less than 16
+- one sets of poker cards (54 cards includes four suits (hearts, diamonds, clubs, spades) and each suit has 13 cards (Ace through King) and two jokers)
+
+the constraint of the board game is:
+- 4 people game
+- playing in a room 5m square
+- played in about 30 minutes
+- all components must be prepaired within the material.

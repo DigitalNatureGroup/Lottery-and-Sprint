@@ -1,15 +1,22 @@
-# auto gpt paruparu is using.
-- cloned https://github.com/Significant-Gravitas/Auto-GPT/tree/980bbe2bc356e837da114f58941a8abc1d11c1c1
-- installed plugins https://github.com/Significant-Gravitas/Auto-GPT-Plugins/blob/57d9213aec874c8d3a1f9f082120da07517fc7d5/src/autogpt_plugins/wikipedia_search/__init__.py
-- sound effect of toaster when user input is needed.
-- (New) execute command unsafe adventure mode!
+# Lottery and Sprint: Generate a Board Game with Design Sprint Method on Auto-GPT
+Welcome to the repository of Lottery and Sprint!
+- This is a clone of Auto-GPT v0.3.1 (https://github.com/Significant-Gravitas/Auto-GPT/releases/tag/v0.3.1) and was minor arranged by the Author.
+- All data which is created boardgame rules evaluated through TF-IDF is in "15_created_data"
 
-## about this new execute command unsafe adventrue mode
-- 着想）現在はenv fileでDENY_COMMANDS、ALLOW_COMMANDSが設定できるようになっていて、denyしたものは実行されない。allowしたものしか実行されない。セーフ設計になっているが、これをbool(true,false)denyしたもの以外実行できるモード。
-- 目的）autogptが環境構築を自分でやってみてほしい。自由にしているところを見たい。
-- 実行方法）"EXECUTE_ANY_COMMANDS = True" を.envファイルに追記する。
+## Setup
+- Setup Auto-GPT in the same way as original Auto-GPT.
+- mirvus was used for the memory in this project (It still works in other memory)
+- google search which needs GOOGLE_API_KEY and CUSTOM_SEARCH_ENGINE_ID was used.
+- Author's original plugin "AutoGPTgpt4" is used. (https://github.com/Auto-GPT-Plugin-Lab/Auto-GPT-use-gpt4-plugin) This can prompt and set the parameters independently from Auto-GPT system's gpt-4.
+
+## prompts in the "prompt_file"
+- Creation prompts for ai_settings.yaml
+- Feedback prompts for ai_settings.yaml
+- boardgame_material_constrain.txt for defining the material and constraints. File to autogpt/auto_gpt_workspace. It appears when you run the code the first time.
+- user_feedback.txt for giving feedback for the created boardgame. File to autogpt/auto_gpt_workspace.
 
 
+below is the readme from the original Auto-GPT.
 # Auto-GPT: An Autonomous GPT-4 Experiment
 [![Official Website](https://img.shields.io/badge/Official%20Website-agpt.co-blue?style=flat&logo=world&logoColor=white)](https://agpt.co)
 [![Unit Tests](https://img.shields.io/github/actions/workflow/status/Significant-Gravitas/Auto-GPT/ci.yml?label=unit%20tests)](https://github.com/Significant-Gravitas/Auto-GPT/actions/workflows/ci.yml)

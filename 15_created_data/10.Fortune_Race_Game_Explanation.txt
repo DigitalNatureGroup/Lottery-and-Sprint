@@ -1,0 +1,39 @@
+Title: Fortune Race
+
+Materials:
+- 3 dice
+- A3 paper for board
+- 12 player pieces (3 pieces per player)
+- One set of poker cards (54 cards including four suits with 13 cards each and two jokers)
+
+Setup:
+1. Lay the A3 paper on a flat surface in the 5m square room, forming a board divided into a grid of 4x6 squares.
+2. Each square will represent a different land, with 4 rows representing territories (hearts, diamonds, clubs, and spades) and 6 columns representing different wealth levels (1-6).
+3. Shuffle the poker cards and place them facedown at the side of the board.
+4. Each player chooses a set of 3 matching player pieces and places one piece on the starting square of their territory (the first column of their respective row). The remaining pieces will be kept separate as reinforcement.
+
+Gameplay Rules:
+1. The game is played in turns. At the start of each turn, players roll 3 dice to determine their movement points, action points, and reinforcement points.
+2. Movement points (one die result, chosen by the player) determine how many squares the player can move their piece. Players can only move forward within their territory row.
+3. Action points (another die result) can be spent to perform actions such as:
+   - Drawing a card from the deck to add to the player's hand (cost: 1 action point)
+   - Playing a card from their hand (cost: card's value in action points, Ace: 1, King: 13, Jack and Queen: 10, Jokers: any value)
+   - Discard a card to gain extra movement points equal to its value.
+4. Reinforcement points (the remaining die result) can be used to bring a player's second and third piece into play. When a player reaches 6 reinforcement points, they can place their second piece at the starting square. When they reach 12 reinforcement points, they can place their third piece as well. A player can only move one piece per turn.
+5. Players move through the grid collecting wealth by landing on higher-value squares in their territory row. Cards can be played to alter the wealth level of a square, steal wealth from other players or change territories.
+6. Players can also use cards to affect the game's state, such as increasing or decreasing movement points for their piece or other players.
+
+Game Ending Conditions:
+The game ends when one player successfully moves all three of their pieces off the board, reaching the final square of their territory row. Alternatively, the game can be ended when the 30-minute time limit is reached. The player with the highest total wealth value from their pieces wins. In case of a tie, the player with the most valuable cards remaining in hand is the winner.
+
+Board Layout and Design:
+The board is an A3 paper divided into a grid of 4x6 squares. Each square represents a different land, with 4 rows for territories and 6 columns for wealth levels. The poker cards are placed facedown beside the board.
+
+Unique Point:
+The unique point of "Fortune Race" is the combination of strategy and luck in a race against time, as players must balance movement, action, and reinforcement points while accumulating wealth within their territory before the time limit is up.
+
+Enjoyable Point:
+Players can enjoy the thrill of competition as they race against time and their opponents to acquire the most wealth. The unpredictability of card draws and dice rolls, along with the time constraint, keep the game fresh and exciting each time.
+
+Strategy to Win:
+To win "Fortune Race," players must develop a strategy balancing movement, action, and reinforcement points allocation within the 30-minute time limit. Players should aim to occupy high wealth squares within their territories, keep a close watch on opponents' moves, and use cards effectively to hinder or benefit their progress.

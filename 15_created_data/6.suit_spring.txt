@@ -1,0 +1,40 @@
+Title: Suit Sprint
+
+Materials:
+- 3 dice
+- A3 paper for the board
+- 12 game pieces (3 per player)
+- One set of poker cards (54 cards, including four suits (hearts, diamonds, clubs, spades) and two jokers)
+
+Setup:
+1. Lay the A3 paper as the playing board in the center of the table. The board is designed as a circular track with four different lanes, each representing one of the four card suits.
+2. Place the 54 cards in a shuffled deck face down at the side of the board.
+3. Each player selects three game pieces and assigns each to a different suit lane on the designated starting space.
+4. Determine randomly which player starts the game.
+
+Gameplay Rules:
+1. On a player's turn, they draw a card from the deck, and then roll the three dice.
+2. Based on the card drawn, the player moves one of their game pieces representing the chosen suit forward by the total number from the sum of the three dice rolls.
+3. If a player draws a Joker card, they can choose which suit to advance.
+4. During their turn, a player can strategically choose not to use all the rolled dice to hold some back to hinder opponents' progress. However, at least one die must be used to move their own piece.
+5. If a dice roll would result in any game piece moving beyond the endpoint of the suit lane and reaching the center, the dice must be rerolled.
+6. Players take turns following steps 1-5 in a clockwise direction.
+
+Game Ending Conditions:
+1. A player wins when they first manage to get all three of their game pieces from different suits into the center square.
+2. If the deck runs out before a player wins, the player with the highest card sum of their game pieces in the center is the winner. In case of a tie, the tied players share the victory.
+
+Board Layout and Design:
+- The A3 paper board consists of a circular track divided into four lanes.
+- Each suit lane has an equal number of spaces, with the final space leading to the center square.
+- The center square is the victory condition zone where players aim to place their game pieces.
+- The lanes are color-coded and contain the symbol of their corresponding suit.
+
+Unique Point:
+Suit Sprint combines familiar card and dice mechanics with unique lane progression, introducing a creative blend of luck and strategic decision-making.
+
+Enjoyable Point:
+Players will be intrigued by the challenge of balancing the available dice rolls and strategically choosing which suit piece to advance, adding depth and excitement to the game.
+
+Strategy to Win the Game:
+Understanding the importance of each card drawn and making informed decisions about dice allocation can optimize one's chances of winning. Collaboration and alliances may emerge to block the progress of leading players, increasing the game's complexity and entertainment value.

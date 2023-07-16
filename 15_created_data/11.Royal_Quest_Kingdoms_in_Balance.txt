@@ -1,0 +1,37 @@
+Title: Royal Quest: Kingdoms in Balance
+
+Materials:
+- 3 six-sided dice
+- A3 paper as the game board
+- 12 game pieces (4 different colors, 3 pieces each)
+- One set of poker cards (54 cards, including 2 jokers)
+
+Setup:
+1. Lay the A3 paper as the game board, which contains a 6x7 grid and illustrations of four kingdoms. Each corner has a kingdom, with an emblem of its suit, in the following layout: hearts (top left), diamonds (top right), clubs (bottom left), and spades (bottom right).
+2. Shuffle the poker cards and keep them stack-down on the side.
+3. Each player selects a colored set of 3 game pieces and places one piece in three of the four kingdoms.
+4. Determine the playing order with a roll of the dice.
+
+Gameplay Rules:
+1. At the beginning of each turn, a player draws the top card from the poker card stack.
+2. If the card is a number card (2-10), the player moves one piece according to the number on the card. The player can decide the direction (clockwise or counterclockwise) only once at the beginning of the move.
+3. If the card is a face card (Jack, Queen, King) or Ace, the player moves all their pieces in a specific kingdom to a neighboring kingdom. Jack moves pieces in the hearts kingdom, Queen moves pieces in the diamonds kingdom, King moves pieces in the clubs kingdom, and Ace moves pieces in the spades kingdom.
+4. If the card is a joker, the player can move one piece of their own or an opponent's to any location on the board.
+5. After determining the piece(s) to move, the player rolls the dice and moves those pieces.
+6. When a piece lands on a space occupied by an opponent's piece, the opponent's piece is returned to its starting kingdom.
+7. During the game, players cannot have more than one piece of the same color in a kingdom.
+
+Game Ending Conditions:
+The game ends when a player has successfully reached a balance in each of the four kingdoms, meaning they have one piece in each kingdom.
+
+Board Layout and Design:
+The A3-sized game board is a 6x7 grid with illustrated kingdoms at each corner. A track of spaces connects the kingdoms in a circular format. Each space on the grid has an artwork related to the corresponding kingdom.
+
+Unique Point:
+Royal Quest: Kingdoms in Balance combines the use of poker cards and dice for a unique gameplay experience. Players must strategize and adapt to the unpredictability of card draws and dice rolls.
+
+Enjoyable Point:
+The game is fast-paced, enjoyable, and suitable for players of various ages. Every card drawn and every roll of the dice offer excitement and often lead to unexpected outcomes.
+
+Strategy to Win the Game:
+To win Royal Quest: Kingdoms in Balance, players must make wise decisions on moving their pieces, strategize around the drawn cards and dice rolls, and stay adaptable. Balancing risk-taking with concentrating on all four kingdoms will improve the chances of reaching the desired balance first. The game can be played within a 5m square room and finished within 30 minutes, accommodating the given constraints.

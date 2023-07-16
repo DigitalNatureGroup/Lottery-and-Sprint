@@ -1,0 +1,26 @@
+Title: Treasure Pursuit
+
+Objective: Players race to collect treasure coins, avoid traps, and navigate through mazes to reach the final treasure in the center of the board. The first player to reach the center with a minimum of three coins wins the game.
+
+Materials:
+1. A3 paper for the board - featuring mazes, treasure locations, and starting positions for each player
+2. 16 pieces - 4 player tokens and 12 treasure coins
+3. 3 dice
+4. 52 poker cards - representing actions and events (excluding the jokers)
+
+Instructions:
+1. Place the A3 paper, which depicts a maze with various paths and treasure locations, in the center of the play area.
+2. Each player chooses a player token and places it on their designated starting position.
+3. Shuffle the poker cards and deal 5 cards face-down to each player. The remaining cards form a draw pile.
+
+Gameplay:
+1. Players take turns in a clockwise order.
+2. On each turn, roll the dice and move the corresponding number of spaces in any direction through the maze. Players cannot backtrack on the same turn.
+3. If a player lands on a treasure space, they collect the coin/token there; meanwhile, that treasure space is left vacant henceforth.
+4. If a player lands on a space marked "Event," they must draw a card from the draw pile. The event cards have been redesigned to avoid significant advantage swings for any player.
+5. If a player loses all three of their coins at any point in the game, they get only one additional turn to regain at least one coin. If they fail to do so, they receive one coin as a consolation prize and must continue playing the game.
+
+End of the game:
+The game ends when one player reaches the final treasure at the center of the board with a minimum of three coins. The player achieving this first wins the game.
+
+Optional rule: Players can choose to form temporary alliances to share coins or increase their chances of winning. However, only one player can ultimately win the game, so betrayals are encouraged. To prevent excessive advantage gains from alliances, no player may hold more than five coins at a time. If a player receives more than five, they must redistribute the excess to any other player(s) of their choice.

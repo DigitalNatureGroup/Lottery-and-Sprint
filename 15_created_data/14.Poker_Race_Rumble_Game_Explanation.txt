@@ -1,0 +1,44 @@
+Title: Poker Race Rumble
+
+Materials:
+1. 3 dice
+2. A3 laminated paper or cardboard for the board
+3. 12 pieces (4 differently colored sets of 3)
+4. One set of poker cards (54 cards including 4 suits and 2 jokers)
+
+Setup:
+1. Draw a racing track on the A3 laminated paper or cardboard with a start and finish line, suitable for a 30-minute gameplay (approximately 50 spaces).
+2. Each player chooses a set of pieces (3 pieces per player) and places them at the starting line.
+3. Shuffle the poker cards and deal 4 cards to each player.
+
+Gameplay Rules:
+1. The game is played in turns, with each player rolling 2 dice during their turn.
+2. The player can use the sum of the dice to move any of their pieces forward that many spaces.
+3. After moving, the player can choose to play one of their poker cards. Cards affect the gameplay as follows:
+   - Number cards (2-10): Move an opponent's piece backward that many spaces.
+   - Face cards (Jack, Queen, King): Move any of your pieces forward the corresponding spaces (Jack - 11, Queen - 12, King - 13).
+   - Ace: Players swap the position of one of their pieces with an opponent's piece.
+   - Joker: The player can choose to move any of their pieces backward or forward up to 8 spaces, or choose an opponent's piece to move backward up to 8 spaces.
+4. After playing a card, the player draws a new card from the deck to maintain a 4-card hand.
+5. Players cannot move their pieces past an opponent's piece, blocking their progress.
+
+Game Ending Conditions:
+1. The game ends when one player has successfully moved all 3 of their pieces across the finish line.
+2. The first player to accomplish this is the winner.
+
+Board Layout and Design:
+1. The racing track consists of 50 spaces in a linear path, with alternate colored spaces to indicate safe zones and challenge zones.
+2. Safe zones protect a player's pieces from being targeted by poker cards.
+3. The spacing of safe zones and challenge zones should be evenly distributed, ensuring fair gameplay.
+
+Unique Point:
+The integration of poker cards and dice-rolling mechanic adds an unpredictable aspect to the game, creating exciting moments and decision-making opportunities.
+
+Enjoyable Point:
+Players will enjoy strategizing the best use of their poker cards to give them an advantage and hinder their opponents, while also trying to navigate the changing landscape of the board.
+
+Strategy to Win the Game:
+1. Utilize poker cards to disrupt opponents and maintain a strong position on the board.
+2. Make optimal use of safe zones to protect your pieces.
+3. Manage your hand wisely to ensure you have the right cards at the right time.
+4. Adapt your strategy based on the current board state and opponents' positions.

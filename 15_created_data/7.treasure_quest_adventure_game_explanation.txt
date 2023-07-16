@@ -1,0 +1,39 @@
+Title: Treasure Quest Adventure
+
+Materials:
+- 4 dice
+- A3 paper for the board
+- 16 playing pieces (4 colors, 4 pieces per color)
+- One set of poker cards (54 cards, including four suits and two Jokers)
+- A small stand to hold the poker cards for easy reference during the game
+
+Setup:
+1. Lay out the A3 paper as the board, containing a 9x9 grid. Mark a treasure symbol at the central grid cell.
+2. Each player selects a color and places their four playing pieces on the four corners of the board.
+3. Shuffle the poker cards and place them facedown on the provided card stand for easy reference during the game.
+4. Place four dice next to the board, within reach of all players.
+
+Gameplay Rules:
+1. At the beginning of their turn, each player must roll all four dice.
+2. Following the dice roll, the player chooses two dice and adds the sum of their numbers for movement, discarding the other two.
+3. A player can choose to move one playing piece the total sum, or split the sum between two playing pieces.
+4. After movement, the player draws one poker card, and its effect is immediately applied to their playing piece(s) according to the card list provided on the stand.
+5. Players must follow the marked arrows for movement and may not enter the same grid cell twice in one turn.
+6. If a player lands on another player's piece, the former sends the latter's piece back to the starting corner and retrieves one poker card from that player.
+7. Players continue taking turns in a clockwise direction.
+
+Game Ending Conditions:
+1. The game ends when one player manages to successfully move all four playing pieces to the treasure symbol in the center of the board.
+2. The first player to achieve this wins the game.
+
+Unique Point:
+The combination of dice rolling, card effects, and movement restrictions adds a layer of strategy and unpredictability to the game.
+
+Enjoyable Point:
+The thrill of countering opponents' moves while overcoming obstacles and utilizing poker card effects creates an engaging and dynamic board game experience.
+
+Strategy to Win the Game:
+Combine efficient movement of playing pieces with skillful usage of poker cards, anticipate opponent strategies, and adapt to the ever-changing game conditions to reach the treasure symbol first.
+
+Board Layout and Design:
+The 9x9 grid with a treasure symbol in the center creates an accessible and visually appealing layout. Requirements, like movement arrows, add to the intrigue and excitement of the game. The card stand helps players easily refer to the poker cards' effects, contributing to smooth gameplay.
